@@ -21,32 +21,32 @@
                       <tbody>
                           <tr>
                               <td class='id'>1</td>
-                              <td>Ram Sharma</td>
-                              <td>ram</td>
+                              <td>Abid Hasan Anik</td>
+                              <td>anik</td>
                               <td>admin</td>
                               <td class='edit'><a href='update-user.php'><i class='fa fa-edit'></i></a></td>
                               <td class='delete'><a href='delete-user.php'><i class='fa fa-trash-o'></i></a></td>
                           </tr>
                           <tr>
                               <td class='id'>2</td>
-                              <td>Shyam Kumar</td>
-                              <td>shyam</td>
+                              <td>Salman Khan</td>
+                              <td>Sallu</td>
                               <td>normal</td>
                               <td class='edit'><a href='update-user.php'><i class='fa fa-edit'></i></a></td>
                               <td class='delete'><a href='delete-user.php'><i class='fa fa-trash-o'></i></a></td>
                           </tr>
                           <tr>
                               <td class='id'>3</td>
-                              <td>Ramesh Kumar</td>
-                              <td>ramesh</td>
+                              <td>Arfan Nisho</td>
+                              <td>Boss</td>
                               <td>admin</td>
                               <td class='edit'><a href='update-user.php'><i class='fa fa-edit'></i></a></td>
                               <td class='delete'><a href='delete-user.php'><i class='fa fa-trash-o'></i></a></td>
                           </tr>
                           <tr>
                               <td class='id'>4</td>
-                              <td>Satish Sharma</td>
-                              <td>satish</td>
+                              <td>Sagor Khan</td>
+                              <td>Sagor</td>
                               <td>admin</td>
                               <td class='edit'><a href='update-user.php'><i class='fa fa-edit'></i></a></td>
                               <td class='delete'><a href='delete-user.php'><i class='fa fa-trash-o'></i></a></td>
